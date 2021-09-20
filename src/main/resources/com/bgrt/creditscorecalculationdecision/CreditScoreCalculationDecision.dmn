@@ -57,7 +57,7 @@
               <dmn:text>0</dmn:text>
             </dmn:outputEntry>
             <dmn:annotationEntry>
-              <dmn:text>Menor edad</dmn:text>
+              <dmn:text>Menor de edad</dmn:text>
             </dmn:annotationEntry>
           </dmn:rule>
           <dmn:rule id="_EA6B44E6-C94D-4FF3-91BE-FE9550A93A7C">
@@ -465,7 +465,7 @@
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="850" y="28" width="186" height="50"/>
+        <dc:Bounds x="850" y="12" width="186" height="50"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-drg-_28DB0548-169B-44D2-8F52-E21AD6A8C3B8" dmnElementRef="_28DB0548-169B-44D2-8F52-E21AD6A8C3B8" isCollapsed="false">
@@ -556,7 +556,7 @@
         <di:waypoint x="410" y="218"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_CD6B399B-9711-4C5C-B1D9-9B951979C388" dmnElementRef="_CD6B399B-9711-4C5C-B1D9-9B951979C388">
-        <di:waypoint x="943" y="53"/>
+        <di:waypoint x="943" y="37"/>
         <di:waypoint x="410" y="59"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_69DA22BE-396F-4D87-BBC2-5386A4A0C07C" dmnElementRef="_69DA22BE-396F-4D87-BBC2-5386A4A0C07C">
